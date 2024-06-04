@@ -25,7 +25,7 @@ const HeroSec = () => {
 
       {/*  ------------------------------------- */}
 
-      <div className={`borderClass  w-[50%] h-full relative  scale-x-[1.2] origin-left pt-12`} >
+      <div className={`borderClass  w-[50%] h-full relative  scale-x-[1.2] origin-left pt-12 `} >
 
         <GradBackRedYellow className={`z-0  absolute top-[5%] right-[35%] rotate-12 `} />
 
@@ -65,7 +65,7 @@ const HeroSec = () => {
 
           `} />
 
-        
+
 
         </div>
 

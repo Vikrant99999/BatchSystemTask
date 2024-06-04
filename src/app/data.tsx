@@ -250,7 +250,30 @@ export const fifthSecUserImg = "https://firebasestorage.googleapis.com/v0/b/fori
 export const seventhSecUserImg = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FFrame%20(1).png?alt=media&token=2c8a0738-d554-4ec3-b28d-7fdd131c8458"
 
 
+// ----------------------------------------------------------------------
 
+
+
+export const softLightBackImg = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FforBack%2FsoftLightBack.png?alt=media&token=8332c707-9a62-4eb8-badd-21226ef30162";
+
+export const backWithImg = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FforBack%2FbackWithImg.png?alt=media&token=58695d9b-c018-4e62-ab8d-0607a38f595f";
+
+export const backWithOutImg = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FforBack%2FbackWithOutImg.png?alt=media&token=f09be5da-44eb-4f9e-a740-82b49baa5451";
+
+export const forHeroLeftBlur = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FforBack%2FforHeroLeftBlur.png?alt=media&token=6cdacf8f-d6a4-44e5-911e-4fa0dc05eba8";
+
+export const forHeroRightBlur = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FforBack%2FforHeroRightBlur.png?alt=media&token=6bcc8764-c75c-4a8e-868c-e0c1b4e4e902";
+
+export const forSecLeftBlur = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FforBack%2FforSecLeftBlur.png?alt=media&token=2e82cc56-fff0-4803-99d9-ae4aa20e7b3f";
+
+export const forSecoRightBlur = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FforBack%2FforSecoRightBlur.png?alt=media&token=4c4cd7cb-a4b2-4dfe-a7be-4be90e93e84a";
+
+export const forThirdRightBlur = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FforBack%2FforThirdRightBlur.png?alt=media&token=830efe43-f3e4-45e3-8e1b-4ee04969d723";
+
+export const forForthLeftBlur = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FforBack%2FforForthLeftBlur.png?alt=media&token=704e8280-1924-4e52-ba59-9733e9704fea";
+
+
+// ----------------------------------------------------------------------
 
 /*
 
