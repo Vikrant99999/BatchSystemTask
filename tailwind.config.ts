@@ -18,6 +18,7 @@ const config: Config = {
           'applyOnSecColor': 'linear-gradient(180deg, #0D061F 0%, #251E35 100%)',
 
           "backSoftLightImg" : `var(--backSoftLightImg)`,
+          "seventhSecUserImgVar" : `var(--seventhSecUserImgVar)`,
       },
 
       screens: {

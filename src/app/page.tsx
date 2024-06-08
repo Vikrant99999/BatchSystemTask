@@ -1,4 +1,3 @@
-import Image from "next/image";
 import HeroSec from "./components/HeroSec";
 import SecSec from "./components/SecSec";
 import ThirdSec from "./components/ThirdSec";

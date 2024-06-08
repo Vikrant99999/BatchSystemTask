@@ -250,6 +250,9 @@ export const fifthSecUserImg = "https://firebasestorage.googleapis.com/v0/b/fori
 export const seventhSecUserImg = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FFrame%20(1).png?alt=media&token=2c8a0738-d554-4ec3-b28d-7fdd131c8458"
 
 
+
+
+
 // ----------------------------------------------------------------------
 
 
@@ -274,6 +277,31 @@ export const forForthLeftBlur = "https://firebasestorage.googleapis.com/v0/b/for
 
 
 // ----------------------------------------------------------------------
+
+
+export const secSecFullImgWithRing = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FimagesWithRing%2FGroup%2035934.png?alt=media&token=58fc8961-01e2-46dd-9961-c052a9da8e4b";
+
+
+export const thirdSecFullImgWithRing = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FimagesWithRing%2FGroup%2035936.png?alt=media&token=7a1979fc-326c-4015-ae90-0be8b711faf6";
+
+
+export const forthSecFullImgWithRing = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FimagesWithRing%2FGroup%201000002335.png?alt=media&token=756fc235-111d-4fd6-8c08-ad26d74ae27a";
+
+
+export const fifthSecFullImgWithRing = "https://firebasestorage.googleapis.com/v0/b/forimgsave.appspot.com/o/010624_BatchSystem_SanFranciscoUS%2FimagesWithRing%2FGroup%201000002334.png?alt=media&token=56539b73-d882-4084-8e35-fdc6b0729b1f";
+
+// ----------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
 
 /*
 
